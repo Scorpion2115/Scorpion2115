@@ -5,20 +5,6 @@
 
 
 <br>
-
-## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Scorpion2115&show_icons=true)
-
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpion2115&theme=blue-green)
-
-
-## 3. Recent GitHub Activity
-  <br/>
-   <a href="https://github.com/Scorpion2115"><img alt="Scorpion2115's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Scorpion2115&custom_title=Scorpion2115's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
-  
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
@@ -59,8 +45,20 @@
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/Scorpion2115/github-readme-activity-graph">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Scorpion2115r&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
+
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpion2115&theme=blue-green)
+
+
+## Recent GitHub Activity
+  <br/>
+   <a href="https://github.com/Scorpion2115"><img alt="Scorpion2115's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Scorpion2115&custom_title=Scorpion2115's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+  
+  
+

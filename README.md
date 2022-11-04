@@ -6,12 +6,6 @@
 
 <br>
 
-- 👋 Hi, I’m @Scorpion2115
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Scorpion2115&show_icons=true)
 
@@ -19,7 +13,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpion2115&theme=blue-green)
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+## 3. Recent GitHub Activity
   <br/>
    <a href="https://github.com/Scorpion2115"><img alt="Scorpion2115's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Scorpion2115&custom_title=Scorpion2115's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>

@@ -21,5 +21,5 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Scorpion2115"><img alt="Scorpion2115's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Scorpion2115&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Scorpion2115"><img alt="Scorpion2115's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Scorpion2115&custom_title=Scorpion2115's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
